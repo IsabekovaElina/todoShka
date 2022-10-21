@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dz-8-ToDo/static/css/main.e6c13ad2.css",
+    "main.js": "/dz-8-ToDo/static/js/main.73531cdc.js",
+    "index.html": "/dz-8-ToDo/index.html",
+    "main.e6c13ad2.css.map": "/dz-8-ToDo/static/css/main.e6c13ad2.css.map",
+    "main.73531cdc.js.map": "/dz-8-ToDo/static/js/main.73531cdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.73531cdc.js"
+  ]
+}
